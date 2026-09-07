@@ -7473,3 +7473,10 @@ Entries:
     message: Чистобот и дракон получили респрайт. by amaliz
   - type: Tweak
     message: Хилиум и Нитриатиум были усилены.
+- id: 712
+  author: IvanKuvalda
+  time: '2026-09-07T10:01:29.747671+00:00'
+  pr: 2304
+  changes:
+  - type: Fix
+    message: Вернул вору сумку неопределенности
